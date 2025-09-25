@@ -1,0 +1,13 @@
+{
+  "itemGroup.scientifictrees": "Example Mod Tab",
+  "block.scientifictrees.example_block": "Example Block",
+  "item.scientifictrees.example_item": "Example Item",
+
+  "scientifictrees.configuration.title": "ScientificTrees Configs",
+  "scientifictrees.configuration.section.scientifictrees.common.toml": "ScientificTrees Configs",
+  "scientifictrees.configuration.section.scientifictrees.common.toml.title": "ScientificTrees Configs",
+  "scientifictrees.configuration.items": "Item List",
+  "scientifictrees.configuration.logDirtBlock": "Log Dirt Block",
+  "scientifictrees.configuration.magicNumberIntroduction": "Magic Number Text",
+  "scientifictrees.configuration.magicNumber": "Magic Number"
+}
